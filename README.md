@@ -62,9 +62,8 @@ Returns a line like:
 
 
 
-[<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/0373e661-e11d-4cc7-b73a-7b3ebd86e8e5" />](https://github.com/Eng-Abdulrahman7/robotic-arm-web-control/blob/d3b0c38793711bc6ef0e4d2fd5e24c95a03c4bb5/get-run-pose1.png)
 
-
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/d8226043-e3a0-4add-b843-3a101b3beff0" />
 
 
 
