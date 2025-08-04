@@ -62,6 +62,8 @@ Returns a line like:
 
 
 
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/0373e661-e11d-4cc7-b73a-7b3ebd86e8e5" />
+
 
 
 
