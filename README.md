@@ -52,10 +52,6 @@ CREATE TABLE poses (
 	2.	Start Apache & MySQL via XAMPP.
   3.	Open in browser:    http://localhost/my_project3/index.php
 
-✅ Output Format (get_run_pose.php)
-
-Returns a line like:
-
 
 Where:
 	•	1 indicates the pose is active
