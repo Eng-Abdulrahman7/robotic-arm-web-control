@@ -4,9 +4,7 @@ A simple web-based interface to control a 6-motor robotic arm using HTML, CSS, J
 > ⚠ Local project folder name: my_project3
 
 ---
-
 ## 🛠 Project Features
-
 - Control six servo motors using sliders.
 - Save multiple poses (motor positions) to a database.
 - Load a saved pose to activate it.
@@ -22,9 +20,7 @@ A simple web-based interface to control a 6-motor robotic arm using HTML, CSS, J
 - PHP 8+
 - MySQL (via phpMyAdmin)
 - XAMPP for local server
-
 ---
-
 ## 🧱 Database Setup
 
 1. Create a database called robot_arm.
@@ -59,16 +55,6 @@ CREATE TABLE poses (
 ✅ Output Format (get_run_pose.php)
 
 Returns a line like:
-
-
-
-
-<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/d8226043-e3a0-4add-b843-3a101b3beff0" />
-
-
-
-
-
 
 
 Where:
